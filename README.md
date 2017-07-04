@@ -1,2 +1,2 @@
 # update
-抓取一些常用软件的更新
+获取Chrome，Shadowsocks，Potplayer，GFWlist，Office更新信息
