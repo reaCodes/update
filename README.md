@@ -1,2 +1,9 @@
 # update
-获取Chrome，Shadowsocks，Potplayer，GFWlist，Office更新信息
+及时获取软件更新信息
+
+现在支持：
+Chrome
+Shadowsocks
+Potplayer
+GFWlist
+Office
