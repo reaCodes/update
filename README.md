@@ -1,9 +1,5 @@
 # update
-及时获取软件更新信息
+获取软件更新信息，并及时推送到邮箱中
 
 现在支持：
-Chrome
-Shadowsocks
-Potplayer
-GFWlist
-Office
+Chrome，Shadowsocks，Potplayer，GFWlist，Office
